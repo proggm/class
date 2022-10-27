@@ -1,0 +1,8 @@
+E:\проекты\drx\drx\bin\Debug\drx.exe.config
+E:\проекты\drx\drx\bin\Debug\drx.exe
+E:\проекты\drx\drx\bin\Debug\drx.pdb
+E:\проекты\drx\drx\obj\Debug\drx.csproj.AssemblyReference.cache
+E:\проекты\drx\drx\obj\Debug\drx.csproj.SuggestedBindingRedirects.cache
+E:\проекты\drx\drx\obj\Debug\drx.csproj.CoreCompileInputs.cache
+E:\проекты\drx\drx\obj\Debug\drx.exe
+E:\проекты\drx\drx\obj\Debug\drx.pdb
